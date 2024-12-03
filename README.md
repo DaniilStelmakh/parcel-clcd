@@ -1,4 +1,4 @@
-# parcel-clcd:
+# parcel-cicd:
 ```
 версия go: 1.22.5
 
